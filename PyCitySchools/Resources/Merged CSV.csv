@@ -1,4 +1,4 @@
-,School ID,School Name,Type,Size,Budget,Student ID,Student Name,Gender,Grade,Reading Score,Math Score
+,School ID,School Name,Type,Total Students,Total Budget,Student ID,Student Name,Gender,Grade,Reading Score,Math Score
 0,0,Huang High School,District,2917,1910635,0,Paul Bradley,M,9th,66,79
 1,0,Huang High School,District,2917,1910635,1,Victor Smith,M,12th,94,61
 2,0,Huang High School,District,2917,1910635,2,Kevin Rodriguez,M,12th,90,60
