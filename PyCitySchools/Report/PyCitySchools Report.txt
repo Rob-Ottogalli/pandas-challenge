@@ -1,0 +1,7 @@
+
+Observable trends:
+1) There is an inverse correlation between school's per-student budget and the overall passing rate.  Schools that spend $615 or less per student have a higher overall passing rate than schools that spend more than $615 per student.  (Compare 95% overall passing for schools spending $615 or less per student vs. 81% overall passing for $615-645 per student and 74% overall passing for $645-675 per student.)
+
+2) Overall passing rates are higher among charter schools than among district schools.  Charter schools had an overall passing rate of 95%, while district schools had an overall passing rate of 73%. Additionally, the top 5 performing schools by overall passing rate were charter schools, while the bottom 5 performing schools were district schools.  
+
+3) Smaller school size is also linked to higher performance.  Schools less than 2000 students had an overall passing rate of 95%, while schools with 2000-5000 students had an overall passing rate of 76%.
